@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // --- Typing Animation ---
-    const roles = ["a Full-Stack Developer", "a Full-Stack Developer", "a Full-Stack Developer", "a Problem Solver"];
+    const roles = ["a Full-Stack Developer", "Aspiring Data Engineer", "Aspiring Data Engineer", "a Problem Solver"];
     let roleIndex = 0;
     let charIndex = 0;
     const typingTextElement = document.querySelector('.typing-text');
